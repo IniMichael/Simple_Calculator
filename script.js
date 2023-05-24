@@ -13,7 +13,7 @@ function result(){
     }
 }
 
-function cl(){
+function clr(){
     calculation.value = "";
 }
 
