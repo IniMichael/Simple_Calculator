@@ -13,10 +13,10 @@ function result(){
     }
 }
 
-function Clear(){
+function clr(){
     calculation.value = "";
 }
 
-function Del(){
+function del(){
     calculation.value = calculation.value.slice (0, -1);
 }
