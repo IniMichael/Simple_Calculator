@@ -9,7 +9,7 @@ function result(){
     }
 
     catch(error){
-        alert("Error!");
+        calculation.value = ("Syntax Error!");
     }
 }
 
